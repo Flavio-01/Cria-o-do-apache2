@@ -1,4 +1,4 @@
-#  🤓Cria-o-do-apache2
+#  🤓Criação do apache2
 # Coamandos uteis:
 
 sudo apt-get update
