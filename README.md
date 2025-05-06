@@ -7,4 +7,4 @@ sudo apt-get install apache2
 
 sudo apt-get install git
 
-sudo git clone link
+sudo git clone link ( Qualquer link que você colocar)
